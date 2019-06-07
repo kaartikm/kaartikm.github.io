@@ -72,3 +72,14 @@ body{
   height: 100%;
   width: auto;
 }
+
+@font-face {
+font-family: "-apple-system";
+src: url("css/fonts/Harabara.eot");
+src:
+url("css/fonts/sf-light.otf") format("otf"),
+url("css/fonts/sf-reg.otf") format("otf"),
+url("css/fonts/sf-semi.otf") format("otf"),
+url("css/fonts/sf-med.otf") format("otf"),
+url("css/fonts/sf-bold.otf") format("otf");
+}
