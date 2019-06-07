@@ -1,0 +1,72 @@
+html{
+  overflow-x: hidden;
+}
+body{
+  background: white;
+  font-family: Avenir Next;
+  margin: 0;
+  padding: 0;
+  z-index: 0;
+  background-color: #0D0D0D;
+  overflow-x: hidden;
+}
+
+#one{
+  height: 100%;
+  width: 100%;
+  background-color: #0D0D0D;
+  margin: 0;
+  padding: 0;
+}
+
+#hello{
+  margin-left: 20%;
+  margin-top: 15%;
+}
+
+#pic{
+  margin-right: 20%;
+  margin-top: 15%;
+}
+
+#two{
+  height: auto;
+  width: 100%;
+  background-color: inherit;
+  margin: 0;
+  margin-top: 15%;
+}
+
+#three{
+  height: auto;
+  width: 100%;
+  background-color: inherit;
+  margin: 0;
+  margin-top: 15%;
+}
+
+#four{
+  height: auto;
+  width: 100%;
+  background-color: white;
+  margin: 0;
+  margin-top: 15%;
+}
+
+#five{
+  height: auto;
+  width: 100%;
+  background-color: white;
+  margin: 3;
+  padding: 0;
+}
+
+.responsive{
+  width: 100%;
+  height: auto;
+}
+
+.response{
+  height: 100%;
+  width: auto;
+}
