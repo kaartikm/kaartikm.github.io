@@ -3,7 +3,7 @@
 }
 
 .nav {
-  height: 95px;
+  height: 55px;
   width: 100%;
   background-color: #000;
   position: fixed;
@@ -38,7 +38,7 @@
   padding: 13px 10px 13px 13px;
   text-decoration: none;
   color: #efefef;
-  margin-top: 5%;
+  margin-top: 1%;
 }
 
 .nav > .nav-links > a:hover {
